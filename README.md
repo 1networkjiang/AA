@@ -1,4 +1,4 @@
 # AA
 
 
-![a](images/a.png)
+![a](a.png)
